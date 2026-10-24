@@ -6,7 +6,7 @@ Jiaqing Li, Bin Lin, Chaocan Xue, Wu Ai, Qingping Zheng
 
 Official implementation of **FeatTracker** (ECCV 2026).
 
-[[Paper](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/3771.pdf)] [[Models - Google Drive](https://drive.google.com/drive/folders/1YuUgIDeuEJrXkVHpnjK20rkfneV_mOPB?usp=sharing)] [[Models - Baidu Drive](https://pan.baidu.com/s/REPLACE_MODEL_SHARE_ID)] [[Raw Results - Google Drive](https://drive.google.com/drive/folders/1uN5ck_AXBSyFCspVbgj3I2HlLMF4VFyo?usp=sharing)] [[Raw Results - Baidu Drive](https://pan.baidu.com/s/REPLACE_RAW_RESULTS_SHARE_ID)]
+[[Paper](https://media.eventhosts.cc/Conferences/ECCV2026/pdfs/3771.pdf)] [[Models - Google Drive](https://drive.google.com/drive/folders/1YuUgIDeuEJrXkVHpnjK20rkfneV_mOPB?usp=sharing)] [[Models - Baidu Drive](https://pan.baidu.com/s/1xq2_uIGa7om5IHztncTLIA?pwd=g2bs)] [[Raw Results - Google Drive](https://drive.google.com/drive/folders/1uN5ck_AXBSyFCspVbgj3I2HlLMF4VFyo?usp=sharing)] [[Raw Results - Baidu Drive](https://pan.baidu.com/s/10oHG3ByH1WKXFnN8qzScPA?pwd=hwa4)]
 
 ---
 
