@@ -138,7 +138,7 @@ ${PROJECT_ROOT}
 ```
 
 Datasets use the UOT convention: each sequence directory contains an `imgs`
-folder (or `img` for WATB) and a `groundtruth_rect.txt` annotation, while the
+folder (or `img`) and a `groundtruth_rect.txt` annotation, while the
 dataset root provides `list.txt` where required.
 
 ## Set Project Paths
@@ -215,7 +215,7 @@ python tracking/test.py feattracker feattracker \
 `--runid` selects the checkpoint epoch and the result directory and defaults
 to 300, e.g. `output/test/tracking_results/feattracker/feattracker_300/`.
 Supported UOT datasets include `webuot`, `uwcot220`, `utb180`, `vmat`,
-`hut290`, `uot100`, `uot32`, `uvot400` and `watb`.
+`hut290`, `uot100`, `uot32` and `uvot400`.
 
 Report the cached scores:
 
