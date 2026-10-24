@@ -1,0 +1,32 @@
+# Core dependencies. PyTorch is installed separately (see install.sh or README).
+numpy==1.24.4
+opencv-python==4.11.0.86
+easydict==1.13
+PyYAML==6.0.2
+tqdm==4.67.1
+pandas==2.0.3
+scipy==1.10.1
+matplotlib==3.7.5
+scikit-image==0.21.0
+Pillow==10.4.0
+einops==0.8.1
+six==1.17.0
+numba==0.58.1  # optional, only for the VOT dataset loaders
+
+# Model and training utilities
+timm==1.0.15
+thop==0.1.1.post2209072238
+tensorboardX==2.6.2.2
+Cython==3.0.12
+colorama==0.4.6
+yacs==0.1.8
+
+# Datasets and evaluation
+jpeg4py==0.1.4
+lmdb==1.6.2
+pycocotools==2.0.7
+tikzplotlib==0.10.1
+
+# Optional logging / visualization
+wandb==0.19.8
+visdom==0.2.4

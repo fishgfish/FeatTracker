@@ -1,0 +1,8 @@
+# Normalize line endings in the repository.
+* text=auto
+
+# Shell scripts and Python sources must stay LF so they work on Linux/macOS.
+*.sh   text eol=lf
+*.py   text eol=lf
+*.yaml text eol=lf
+*.yml  text eol=lf

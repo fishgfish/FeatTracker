@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+build/
+dist/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Project outputs (repository root only, so that source packages such as
+# lib/train/data/ are not ignored)
+/output/
+/tensorboard/
+/debug/
+/data/
+
+# Model weights
+/pretrained_networks/
+*.pth
+*.pth.tar
+
+# Editors and OS
+.idea/
+.vscode/
+.DS_Store
+
+# Raw results package (uploaded to cloud drives, not committed)
+/raw_results/
+/raw_results.zip
